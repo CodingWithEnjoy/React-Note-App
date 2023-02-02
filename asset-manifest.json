@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Note-App/static/css/main.87d92379.css",
+    "main.js": "/React-Note-App/static/js/main.b5286c32.js",
+    "static/media/Glacial Indifference Regular.otf": "/React-Note-App/static/media/Glacial Indifference Regular.663a1c12d079e631b0b2.otf",
+    "index.html": "/React-Note-App/index.html",
+    "main.87d92379.css.map": "/React-Note-App/static/css/main.87d92379.css.map",
+    "main.b5286c32.js.map": "/React-Note-App/static/js/main.b5286c32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d92379.css",
+    "static/js/main.b5286c32.js"
+  ]
+}
